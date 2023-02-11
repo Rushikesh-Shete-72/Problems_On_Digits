@@ -1,0 +1,36 @@
+//program to give input two numbers  from users and display its of Addtions
+
+//       ----------------- Algorithm ----------------- 
+///////////////////////////////////////////////////////////////////////////////
+
+/*
+    START
+        Declare two hardcode  number as a value
+        Add  that NO 
+            Then display it's 
+    END
+*/
+
+///////////////////////////////////////////////////////////////////////////////
+#include<stdio.h>
+
+//  Entry point of the application
+int main()
+{
+ 
+ int a=10, b=20, ans=0; // declare two hardcode values and variable
+ans=a+b;
+printf("The adition of numbers are:%d",ans);// print the output of the addition
+
+return 0;
+
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//  Result
+//  Input : 5 
+//  Input : 5
+
+//  Output : 10
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
